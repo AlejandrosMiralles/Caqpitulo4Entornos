@@ -1,5 +1,5 @@
 # Capitulo4Entornos
 
-Proyecto hola mundo
+Proyecto NumerosPrimos
 
-Le voy a decir ir al mundo que estoy aquí
+Refactorizo un programa llamado "NumerosPrimos". El programa original está en la rama "main" y el refactorizado en "Refactor"
